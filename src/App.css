@@ -1,0 +1,19 @@
+body{
+  background-color: rgb(213, 187, 236);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.box{
+  border: 2px solid rgb(161, 158, 158);
+  height: 200px;
+  width: 900px;
+  margin-top: 40px;
+  margin-left: 200px;
+}
+.btn{
+  margin-top: 90px;
+  font-size: larger;
+
+}
